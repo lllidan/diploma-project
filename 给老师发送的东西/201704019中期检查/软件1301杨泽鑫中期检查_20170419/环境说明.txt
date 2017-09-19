@@ -1,0 +1,5 @@
+Python 3.5.2
+BeautifulSoup4.5.1
+requests 2.13.0
+IDE£ºVersion: Neon.2 Release (4.6.2) Build id: 20161208-0600
+	²å¼þÊ¹ÓÃ:PyDev
